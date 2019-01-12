@@ -1,0 +1,10 @@
+Package: Schulnoten
+Type: Package
+Title: It's an easy way to get your grade point average
+Version: 0.1.0
+Author: Sabine Woellert
+Maintainer: Sabine Woellert <sabine.woellert@tum.de>
+Description: If you are tired of typing your grades into your books and then calculating your grade point average. This package is your solution. You only have to get a dataset with your grades and subjects and then the functions are calculating it for you
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
